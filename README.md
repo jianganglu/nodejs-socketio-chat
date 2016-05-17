@@ -19,8 +19,10 @@ This is a simple chat demo by using Node.js and Socket.IO.
   
   接下来使用npm命令安装express和socket.io
   
+  、、、
   npm install --save express
   npm install --save socket.io
+  、、、
   
   命令行运行node index.js，如果一切顺利，你应该会看到返回的listening on *:3000字样，这说明服务已经成功搭建了。此时浏览器中打开http://localhost:3000应该可以看到正常的欢迎页面。
   
